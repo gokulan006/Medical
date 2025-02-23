@@ -62,45 +62,7 @@ MedSnap/
 
 ### 🔹 Hugging Face Spaces
 You can also access **MedSnap** on Hugging Face Spaces [here](https://huggingface.co/spaces/your-space-url).
-
-## 📌 Example Usage
-### **Medical Abstract Skimmer**
-Input:
-```
-Background: Artificial Intelligence (AI) is revolutionizing medical diagnosis.
-Methods: We conducted a study with 500 participants using AI-assisted diagnostics.
-Results: AI improved accuracy by 30%.
-Conclusions: AI can enhance diagnostic reliability.
-```
-Output:
-```
-Objective: Explore AI's impact on diagnosis.
-Methods: 500 participants, AI-assisted diagnostics.
-Results: 30% accuracy improvement.
-Conclusions: AI enhances reliability.
-```
-
-### **Medical Research Paper Summarization**
-Input:
-```
-Deep learning has been widely adopted in radiology. A study on AI-based tumor detection found that...
-```
-Output:
-```
-Summary: AI-driven deep learning models show promising results in tumor detection, improving diagnostic accuracy.
-```
-
-### **Medical News Summarization**
-Input:
-```
-A breakthrough in cancer research shows that...
-```
-Output:
-```
-Title: "Breakthrough in Cancer Research: New Treatment Discovered"
-Meta Description: "Scientists have discovered a groundbreaking treatment for cancer..."
-Summary: "Recent research reveals an innovative approach to cancer treatment..."
-```
+ 
 
 ## 📝 Future Enhancements
 - ✨ Expand dataset for improved summarization accuracy.
