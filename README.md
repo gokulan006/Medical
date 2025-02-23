@@ -60,8 +60,7 @@ MedSnap/
    python app.py
    ```
 
-### 🔹 Hugging Face Spaces
-You can also access **MedSnap** on Hugging Face Spaces [here](https://huggingface.co/spaces/your-space-url).
+
  
 
 ## 📝 Future Enhancements
