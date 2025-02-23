@@ -1,5 +1,7 @@
 # MedSnap: AI-Powered Medical Research Platform
 
+## MedSnap AI Tool
+[Open MedsnapAI](https://gokulan006.github.io/medi/)
 ## 📌 Overview
 MedSnap is an AI-powered tool designed for **medical students, researchers, and professionals** to streamline their workflow. It leverages state-of-the-art NLP models to assist in **skimming medical abstracts, summarizing research papers, and providing the latest medical news with AI-powered insights**.
 
