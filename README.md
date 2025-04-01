@@ -30,20 +30,6 @@ MedSnap is an AI-powered tool designed for **medical students, researchers, and 
 - **BeautifulSoup & Requests** (for web scraping and fetching news articles)
 - **Hugging Face Spaces** (for model deployment)
 
-## 📂 Project Structure
-```
-MedSnap/
-│── app.py                # Main Gradio application
-│── summarizer.py         # Summarization model pipeline
-│── news_scraper.py       # Medical news scraper
-│── requirements.txt      # Dependencies
-│── README.md             # Project documentation
-│── notebooks/
-│   ├── SkimLit.ipynb     # Medical abstract skimmer notebook
-│   ├── Med_Summary.ipynb # Research paper & notes summarizer
-│   ├── Med_News.ipynb    # Medical news summarizer
-```
-
 ## 📌 How to Use
 ### 🔹 Locally
 1. Clone the repository:
